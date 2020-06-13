@@ -2,6 +2,8 @@
 
 Turning the [EEZYbotARM](https://www.thingiverse.com/thing:1015238) into a time telling machine! 
 
+![RoboClock_Timelapse](/Images/RoboClock_600_30.gif)
+
 ### Overview
 This project attempts to use the [EEZYbotARM](https://www.thingiverse.com/thing:1015238) designed by [daGHIZmo](https://www.thingiverse.com/daGHIZmo) ([Original License](https://creativecommons.org/licenses/by-nc/4.0/legalcode)) to keep time by arranging a set of 3D printed numbers in the correct order.
 
@@ -95,6 +97,8 @@ If using the chain sensor
 *  2x Capacitors (0.1 uF)
 *  2x Resistors (10k Ohms)
 
+### Electronics / Circuit Diagram
+![RoboClock_Circuit](/Images/RoboClock_Circuit.png)
 
 ### Variants
 * [x]  Seeeduino Controller (done)
