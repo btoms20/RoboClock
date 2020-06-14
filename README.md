@@ -25,10 +25,10 @@ The clock consists of three parts...
 Every 5 minutes the arm rearranges/replaces the numbers on the podium to reflect the current time. Depending on how many numbers need changing, the entire update cycle can last anywhere from 45 to 90 secs.
 
 ### How To
-Check out the instructables for a detailed guide to building your own
+Check out the [instructables for a detailed guide](https://www.instructables.com/id/RoboClock/) to building your own
 *  Download, Slice, Print and Assemble the [EEZYbotARM](https://www.thingiverse.com/thing:1015238) 
 *  Download, Slice, Print and Assemble the [RoboClock](https://www.thingiverse.com/thing:4457850) parts
-*  Pro Tip: Print a few segments of the chain and adjust the height of Chain_Spacer.stl to make sure your chain has the desired tolerances
+*  Pro Tip 💡: Before printing the entire 18 segment chain, print a few segments of the chain and adjust the height of Chain_Spacer.stl to make sure your chain has the desired tolerances. It should rotate freely with minimal lateral sag.
 *  Mount parts to surface
 *  Upload the meastro_settings.txt to the Micro Maestro using the Maestro software from Pololu
 *  Tweak the sequences if needed to ensure the pre-programmed sequences move the to the correct locations
